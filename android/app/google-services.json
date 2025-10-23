@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012539298282",
+    "project_id": "mispl-tv",
+    "storage_bucket": "mispl-tv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012539298282:android:27c9c92b5905d5bf236293",
+        "android_client_info": {
+          "package_name": "com.iptv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-0Eq8vQHpgt2hzQYkOPqpwFBgVLsE7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
